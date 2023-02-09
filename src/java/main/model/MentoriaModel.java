@@ -1,0 +1,33 @@
+package java.main.model;
+
+import java.time.LocalDate;
+
+public class MentoriaModel {
+	private String titulo;
+	private String descricao;
+	private LocalDate data;
+	public String getTitulo() {
+		return titulo;
+	}
+	public void setTitulo(String titulo) {
+		this.titulo = titulo;
+	}
+	public String getDescricao() {
+		return descricao;
+	}
+	public void setDescricao(String descricao) {
+		this.descricao = descricao;
+	}
+	public LocalDate getData() {
+		return data;
+	}
+	public void setData(LocalDate data) {
+		this.data = data;
+	}
+	@Override
+	public String toString() {
+		return "MentoriaModel [titulo=" + titulo + ", descricao=" + descricao + ", data=" + data + "]";
+	}
+	
+	
+}
