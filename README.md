@@ -1,1 +1,1 @@
-## Esse projeto tem como focar utilizar os conceitos de orientação a objetos visando abstrair um bootcamp, é um projeto simples apenas para fixar conceitos de orientação a objetos
+## Esse projeto tem como focar utilizar os conceitos de orientação a objetos visando abstrair um bootcamp, é um projeto simples apenas para fixar conceitos fundamentais de orientação a objetos como Abstração,Encapsulamento,Herança e Polimorfismo
